@@ -49,7 +49,3 @@ decryptor.decryptFiles().then((results) => {
 
 - The script only decrypts `.md` files that were encrypted using the Obsidian Protected Note plugin.
 - If the decryption fails for some files, the script will continue processing the rest and log any failed files.
-
-## License
-
-This project is open-source under the MIT License.
